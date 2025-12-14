@@ -69,7 +69,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 ## 📫 Let’s Connect
 
 - 💼 LinkedIn: [dhavawirayudapy](https://linkedin.com/in/dhavawirayudapy)
-- 🌐 Portfolio: _add your portfolio website_
+- 🌐 Portfolio: 
 - ✉️ Email: [daffawirayuda120@gmail.com](mailto:daffawirayuda120@gmail.com)
 
 ---
