@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:3F0071&height=220&section=header&text=Dhava%20Wirayuda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Telecommunication%20Engineer%20|%20IoT%20|%20Digital%20Systems&descAlignY=55" />
+</p>
+
 # 👋 Hi, I’m Dhava Wirayuda
 
 <p align="center">
@@ -63,6 +67,14 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eleanore-Py&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 * Advanced IoT System Design
@@ -75,7 +87,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 
 * 💼 LinkedIn: [dhavawirayudapy](https://linkedin.com/in/dhavawirayudapy)
 * 🌐 Portfolio: *coming soon*
-* ✉️ Email: [daffawirayuda128@gmail.com](mailto:daffawirayuda128@gmail.com)
+* ✉️ Email: [daffawirayuda120@gmail.com](mailto:daffawirayuda120@gmail.com)
 
 ---
 
