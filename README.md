@@ -92,8 +92,9 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 ---
 
 ## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Eleanore-Py&theme=tokyonight&no-frame=true&row=1&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eleanore-Py&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 
 ---
