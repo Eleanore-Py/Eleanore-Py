@@ -103,7 +103,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 </p>
 
 <p align="center">
-  <b>IoT • Cloud • AI</b><br/>
+  <b>Cyber Security • Computer Network • NLP • IoT With MicroPython</b><br/>
   Continuous learning through verified certifications.
 </p>
 
