@@ -91,10 +91,19 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 
 ---
 
-## 🏆 GitHub Trophies
+## 📜 Certifications & Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eleanore-Py&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="assets/certificates/iot-certificate.png" width="280"/>
+  <img src="assets/certificates/cloud-certificate.png" width="280"/>
+  <img src="assets/certificates/ai-certificate.png" width="280"/>
 </p>
+
+<p align="center">
+  <b>IoT • Cloud • AI</b><br/>
+  Continuous learning through verified certifications.
+</p>
+
 
 
 ---
