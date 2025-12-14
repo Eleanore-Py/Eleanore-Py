@@ -96,11 +96,11 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 <p align="center">
   <img src="assets/CertificateCyberSecurity.jpg" width="280"/>
   <img src="assets/CertificateNetworkCourse.jpg" width="280"/>
-  <img src="assets/NLP.jpg" width="280"/>
 </p>
 
 <p align="center">
-  <b>Basic Cyber Security • Computer Network • NLP</b><br/>
+  <b>Basic Cyber Security • Computer Network</b><br/>
+  <p>By Cisco</p>
   Continuous learning through verified certifications.
 </p>
 
