@@ -99,6 +99,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
   <img src="assets/CertificateNetworkCourse.jpg" width="280"/>
   <img src="assets/CredetialsNetwork.jpg" width="280"/>
   <img src="assets/NLP.jpg" width="280"/>
+  <img src="assets/MicroPython.jpg" width="280"/>
 </p>
 
 <p align="center">
