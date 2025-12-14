@@ -101,7 +101,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 <p align="center">
   <b>Basic Cyber Security • Computer Network</b><br/>
   <b>By Cisco</b>
-  Continuous learning through verified certifications.
+  <b>Continuous learning through verified certifications.</b>
 </p>
 
 
