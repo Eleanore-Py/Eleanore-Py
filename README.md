@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Dhava Wirayuda
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 > *Tech Enthusiast | Telecommunication Engineer | IoT & Digital Systems Builder*
 
 ---
@@ -24,13 +28,9 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 
 ## 🛠 Tech Stack
 
-**Languages & Tools**
-
-* Python, JavaScript, HTML, CSS, C++
-* Flask, Node.js
-* TensorFlow, OpenCV
-* PostgreSQL, SQLite
-* Git & GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cpp,flask,nodejs,tensorflow,postgresql,git,github&theme=dark" />
+</p>
 
 **Hardware & Embedded**
 
@@ -50,11 +50,16 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eleanore-Py\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eleanore-Py&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eleanore-Py&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleanore-Py\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eleanore-Py&theme=tokyo-night" />
+</p>
 
 ---
 
@@ -68,10 +73,12 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: [dhavawirayudapy](https://linkedin.com/in/dhavawirayudapy)
-- 🌐 Portfolio: 
-- ✉️ Email: [daffawirayuda120@gmail.com](mailto:daffawirayuda120@gmail.com)
+* 💼 LinkedIn: [dhavawirayudapy](https://linkedin.com/in/dhavawirayudapy)
+* 🌐 Portfolio: *coming soon*
+* ✉️ Email: [daffawirayuda120@gmail.com](mailto:daffawirayuda120@gmail.com)
 
 ---
 
-> *“Build with purpose. Learn endlessly. Share what you know.”* ✨
+<p align="center">
+  <i>“Build with purpose. Learn endlessly. Share what you know.”</i> ✨
+</p>
