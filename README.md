@@ -95,15 +95,12 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 
 <p align="center">
   <img src="assets/CertificateCyberSecurity.jpg" width="280"/>
-  <img src="assets/CredentialsCyberSecurity.jpg" width="280"/>
   <img src="assets/CertificateNetworkCourse.jpg" width="280"/>
-  <img src="assets/CredetialsNetwork.jpg" width="280"/>
   <img src="assets/NLP.jpg" width="280"/>
-  <img src="assets/MicroPython.jpg" width="280"/>
 </p>
 
 <p align="center">
-  <b>Cyber Security • Computer Network • NLP • IoT With MicroPython</b><br/>
+  <b>Basic Cyber Security • Computer Network • NLP</b><br/>
   Continuous learning through verified certifications.
 </p>
 
