@@ -58,24 +58,24 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
     <td width="50%">
       <h3>☁️ Cloud Portfolio App</h3>
       <p>Fullstack web app with authentication, file upload/download, messaging, and PostgreSQL database.</p>
-      <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-projects/main/assets/web.png" width="100%" />
+      <img src="" width="100%" />
     </td>
     <td width="50%">
       <h3>🌐 IoT Monitoring System</h3>
       <p>ESP32-based IoT system for sensor data acquisition, monitoring, and visualization.</p>
-      <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-projects/main/assets/iot.png" width="100%" />
+      <img src="" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🤖 Computer Vision</h3>
       <p>Image classification & segmentation using CNN (TensorFlow & OpenCV).</p>
-      <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-projects/main/assets/ai.png" width="100%" />
+      <img src="" width="100%" />
     </td>
     <td width="50%">
       <h3>🔗 Web3 Experiments</h3>
       <p>Smart contract fundamentals and decentralized application experiments.</p>
-      <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-projects/main/assets/blockchain.png" width="100%" />
+      <img src="" width="100%" />
     </td>
   </tr>
 </table>
