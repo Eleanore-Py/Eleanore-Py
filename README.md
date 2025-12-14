@@ -95,7 +95,9 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 
 <p align="center">
   <img src="assets/CertificateCyberSecurity.jpg" width="280"/>
+  <img src="assets/CredentialsCyberSecurity.jpg" width="280"/>
   <img src="assets/CertificateNetworkCourse.jpg" width="280"/>
+  <img src="assets/CredentialsNetwork.jpg" width="280"/>
   <img src="assets/NLP.jpg" width="280"/>
 </p>
 
