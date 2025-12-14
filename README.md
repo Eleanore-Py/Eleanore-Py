@@ -94,7 +94,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 ## 📜 Certifications & Achievements
 
 <p align="center">
-  <img src="assets/certificates/iot-certificate.png" width="280"/>
+  <img src="assets/CertificateCyberSecurity.jpg" width="280"/>
   <img src="assets/certificates/cloud-certificate.png" width="280"/>
   <img src="assets/certificates/ai-certificate.png" width="280"/>
 </p>
