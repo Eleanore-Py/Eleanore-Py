@@ -121,6 +121,9 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
     ├─ Building Real-world Products
     └─ Open Source Contribution
 ```
+
+## 🎮 Play With Me
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg">
