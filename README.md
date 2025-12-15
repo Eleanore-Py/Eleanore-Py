@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:3F0071&height=220&section=header&text=Dhava%20Wirayuda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Telecommunication%20Engineer%20|%20IoT%20|%20Digital%20Systems&descAlignY=55" />
+  <img src="assets/Header"/>
 </p>
 
 # 👋 Hi, I’m Dhava Wirayuda
