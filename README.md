@@ -2,6 +2,7 @@
   <img src="assets/Header.png"/>
 </p>
 
+---
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph-dark.svg">
@@ -16,6 +17,7 @@
 <img src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/snake.svg" alt="Snake animation" />
 
 ###
+---
 
 ## 🚀 About Me
 
@@ -110,8 +112,6 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
     <p>Continuous learning through verified certifications.</p>
   </b>
 </p>
-
-
 
 ---
 
