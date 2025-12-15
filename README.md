@@ -2,9 +2,6 @@
   <img src="assets/Header.png"/>
 </p>
 
----
-## 🎮 Play With Me
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg">
@@ -12,7 +9,12 @@
 </picture>
 
 ###
----
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🚀 About Me
 
@@ -133,12 +135,6 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
     ├─ Building Real-world Products
     └─ Open Source Contribution
 ```
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/snake.svg" alt="Snake animation" />
-
-###
----
 
 ## 🌱 Currently Learning
 
