@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Header"/>
+  <img src="assets/Header.png"/>
 </p>
 
 # 👋 Hi, I’m Dhava Wirayuda
