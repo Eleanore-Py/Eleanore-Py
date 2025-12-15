@@ -103,7 +103,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 ## 🧠 Current Focus Roadmap
 
 ```text
-2025 Focus
+2026 Focus
 │
 ├── IoT Systems
 │   ├─ Advanced ESP32 Architectures
