@@ -2,14 +2,6 @@
   <img src="assets/Header.png"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-> *Tech Enthusiast | Telecommunication Engineer | IoT & Digital Systems Builder*
-
----
-
 ## 🚀 About Me
 
 I’m a **fresh graduate in Telecommunication Engineering** with a strong interest in **IT systems, IoT, cloud-based solutions, and digital automation**. I enjoy building things from scratch, breaking systems apart to understand how they work, and turning ideas into real, usable products.
