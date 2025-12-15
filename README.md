@@ -122,6 +122,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
     └─ Open Source Contribution
 ```
 
+---
 ## 🎮 Play With Me
 
 <picture>
@@ -131,6 +132,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 </picture>
 
 ###
+---
 
 <br clear="both">
 
