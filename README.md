@@ -107,7 +107,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 │
 ├── IoT Systems
 │   ├─ Advanced ESP32 Architectures
-│   ├─ Sensor Fusion & Edge Computing
+│   ├─ Sensor Fusion & LoRa Architectures
 │
 ├── Cloud & DevOps
 │   ├─ Docker & CI/CD
