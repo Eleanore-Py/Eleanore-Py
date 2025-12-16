@@ -4,12 +4,11 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg"
-    alt="Pacman contribution graph"
-  />
-</p>
+- name: Generate pacman contribution graph (dark)
+  uses: abozanona/pacman-contribution-graph@main
+  with:
+    github_user_name: Eleanore-Py
+    theme: dark
 
 
 <br clear="both" />
