@@ -1,22 +1,21 @@
 <p align="center">
-  <img src="assets/Header.png"/>
+  <img src="assets/Header.png" alt="Header" />
 </p>
 
 ---
-###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph-dark.svg  ">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg  ">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg  ">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<br clear="both" />
 
-<br clear="both">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/snake.svg" alt="Snake animation" />
-
-###
 ---
 
 ## 🚀 About Me
@@ -40,10 +39,12 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 ## 🔗 Tech Badges
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/IoT-ESP32-blueviolet?style=for-the-badge&logo=arduino" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AI-Computer%20Vision-ff6f00?style=for-the-badge&logo=tensorflow" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cloud-Deployment-1f6feb?style=for-the-badge&logo=googlecloud" /></a>
+  <img src="https://img.shields.io/badge/IoT-ESP32-blueviolet?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/AI-Computer%20Vision-ff6f00?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Cloud-Deployment-1f6feb?style=for-the-badge&logo=googlecloud" />
 </p>
+
+---
 
 ## 🛠 Tech Stack
 
@@ -64,11 +65,11 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
   <tr>
     <td width="50%">
       <h3>☁️ Cloud Portfolio App</h3>
-      <p>Fullstack web app with authentication, file upload/download, messaging, and PostgreSQL database.</p>
+      <p>Full‑stack web app with authentication, file upload/download, messaging, and PostgreSQL database.</p>
     </td>
     <td width="50%">
       <h3>🌐 IoT Monitoring System</h3>
-      <p>ESP32-based IoT system for sensor data acquisition, monitoring, and visualization.</p>
+      <p>ESP32‑based IoT system for sensor data acquisition, monitoring, and visualization.</p>
     </td>
   </tr>
   <tr>
@@ -101,16 +102,14 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 ## 📜 Certifications & Achievements
 
 <p align="center">
-  <img src="assets/CertificateCyberSecurity.jpg" width="280"/>
-  <img src="assets/CertificateNetworkCourse.jpg" width="280"/>
+  <img src="assets/CertificateCyberSecurity.jpg" width="280" />
+  <img src="assets/CertificateNetworkCourse.jpg" width="280" />
 </p>
 
 <p align="center">
-  <b>Basic Cyber Security • Computer Network</b><br/>
-  <b>By Cisco</b>
-  <b>
-    <p>Continuous learning through verified certifications.</p>
-  </b>
+  <b>Basic Cyber Security • Computer Network</b><br />
+  <b>By Cisco</b><br />
+  <i>Continuous learning through verified certifications.</i>
 </p>
 
 ---
@@ -129,19 +128,21 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 │   ├─ Cloud Deployment (AWS / GCP)
 │
 ├── Artificial Intelligence
-│   ├─ Computer Vision (Real-time)
-│   ├─ NLP-based Assistants
+│   ├─ Computer Vision (Real‑time)
+│   ├─ NLP‑based Assistants
 │
 └── Career
-    ├─ Building Real-world Products
+    ├─ Building Real‑world Products
     └─ Open Source Contribution
 ```
+
+---
 
 ## 🌱 Currently Learning
 
 * Advanced IoT System Design
 * Cloud Infrastructure & Deployment
-* AI-powered Applications
+* AI‑powered Applications
 
 ---
 
