@@ -16,12 +16,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate pacman contribution graph (dark)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Eleanore-Py
+          theme: dark
+          background_color: "#0d1117"
 
-      - name: Push pacman-contribution-graph.svg to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
