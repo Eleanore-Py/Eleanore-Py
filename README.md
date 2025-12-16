@@ -3,19 +3,19 @@
 </p>
 
 ---
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg"
-    alt="Pacman contribution graph"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg">
+</picture>
 
-<br clear="both" />
+###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/snake.svg" alt="Snake animation" />
-</p>
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 ## 🚀 About Me
