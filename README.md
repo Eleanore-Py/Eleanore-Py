@@ -151,6 +151,10 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 
 ---
 
+<img src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="center">
   <i>“Build with purpose. Learn endlessly. Share what you know.”</i> ✨
 </p>
