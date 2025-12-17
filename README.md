@@ -3,6 +3,10 @@
 </p>
 
 ---
+<p align="center">
+  ## Let's Play With Me
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg">
