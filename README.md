@@ -2,19 +2,6 @@
   <img src="assets/Header.png" alt="Header" />
 </p>
 
----
-
-## 🎮 Let's Play With Me
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
-
 ## 🚀 About Me
 
 I’m a **fresh graduate in Telecommunication Engineering** with a strong interest in **IT systems, IoT, cloud-based solutions, and digital automation**. I enjoy building things from scratch, breaking systems apart to understand how they work, and turning ideas into real, usable products.
