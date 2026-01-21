@@ -133,7 +133,7 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 ## 📫 Let’s Connect
 
 * 💼 LinkedIn: [dhavawirayudapy](https://linkedin.com/in/dhavawirayudapy)
-* 🌐 Portfolio: [Dhava Wirayuda](dhavawirayuda.pages.dev)
+* 🌐 Portfolio: [Dhava Wirayuda](https://dhavawirayuda.pages.dev/)
 * ✉️ Email: [daffawirayuda128@gmail.com](mailto:daffawirayuda128@gmail.com)
 
 ---
