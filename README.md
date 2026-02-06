@@ -148,8 +148,6 @@ I’m also the founder of **Spectrum.Byte** — a tech initiative focused on:
 
 ---
 
----
-
 ## 📫 Let’s Connect
 
 <p align="center">
