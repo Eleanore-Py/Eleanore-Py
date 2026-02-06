@@ -148,30 +148,24 @@ I’m also the founder of **Spectrum.Byte** — a tech initiative focused on:
 
 ---
 
-## 🧭 2026 Learning & Career Roadmap
+---
 
-```text
-2026 Vision
-│
-├── IoT & Embedded
-│   ├─ Advanced ESP32 Architectures
-│   ├─ Sensor Fusion & LoRa Systems
-│
-├── Cloud & DevOps
-│   ├─ Docker & CI/CD Pipelines
-│   ├─ AWS / GCP Deployment
-│
-├── Artificial Intelligence
-│   ├─ Real-time Computer Vision
-│   ├─ NLP-based Intelligent Assistants
-│
-└── Career Growth
-    ├─ Product-oriented Development
-    └─ Open-Source Contributions
+## 📫 Let’s Connect
 
+<p align="center">
+  <a href="https://linkedin.com/in/dhavawirayudapy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhava%20Wirayuda-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://dhavawirayuda.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-dhavawirayuda.pages.dev-000000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:daffawirayuda128@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Open for collaboration, product discussions, and early-stage tech opportunities.</i>
+</p>
 
 ---
-## 📫 Let’s Connect *
-💼 LinkedIn: [dhavawirayudapy](https://linkedin.com/in/dhavawirayudapy) *
-🌐 Portfolio: [Dhava Wirayuda](https://dhavawirayuda.pages.dev/) *
-✉️ Email: [daffawirayuda128@gmail.com](mailto:daffawirayuda128@gmail.com) ---
