@@ -55,7 +55,7 @@ I’m also the founder of **Spectrum.Byte** — a tech initiative focused on:
 
 ### 🔧 Hardware & Networking
 - ESP32, Sensors, IoT Modules  
-- Basic Networking & Telecommunication Systems  
+- Moderate Networking & Telecommunication Systems  
 - System Troubleshooting & Optimization  
 
 ---
