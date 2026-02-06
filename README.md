@@ -90,13 +90,7 @@ built with a structured & professional mindset.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eleanore-Py&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eleanore-Py&layout=compact&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eleanore-Py&theme=tokyo-night" />
 
 ---
 
