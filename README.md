@@ -2,21 +2,36 @@
   <img src="assets/Header.png" alt="Header" />
 </p>
 
-## 🚀 About Me
+<h1 align="center">Hi, I'm Dhava 👋</h1>
+<h3 align="center">Telecommunication Engineer • IoT Builder • Cloud & AI Explorer</h3>
 
-I’m a **fresh graduate in Telecommunication Engineering** with a strong interest in **IT systems, IoT, cloud-based solutions, and digital automation**. I enjoy building things from scratch, breaking systems apart to understand how they work, and turning ideas into real, usable products.
-
-I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device repair, system optimization, and software recovery with a structured and professional approach.
+<p align="center">
+  <i>Turning systems into solutions. Turning ideas into products.</i>
+</p>
 
 ---
 
-## 🧠 What I’m Into
+## 🚀 About Me
 
-* 🌐 Internet of Things (IoT)
-* ☁️ Cloud Computing & Automation
-* 🤖 Artificial Intelligence (Computer Vision & NLP)
-* 🔐 Cybersecurity Fundamentals
-* 🧩 Full Stack Development
+I'm a **fresh graduate in Telecommunication Engineering** with a deep passion for **IT systems, IoT, cloud infrastructure, and intelligent automation**.
+
+I love:
+- Building systems **from zero**
+- Reverse-engineering tech to understand *why it works*
+- Shipping **real, usable products**, not just demos
+
+I’m also the founder of **Spectrum.Byte** — a tech initiative focused on:
+**device repair, system optimization, data recovery, and software-based solutions**, built with a structured & professional mindset.
+
+---
+
+## 🧠 Tech Interests & Focus
+
+* 🌐 Internet of Things & Embedded Systems  
+* ☁️ Cloud Computing & DevOps Automation  
+* 🤖 Artificial Intelligence (Computer Vision & NLP)  
+* 🔐 Cybersecurity Fundamentals  
+* 🧩 Full-Stack & System Integration  
 
 ---
 
@@ -26,20 +41,22 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
   <img src="https://img.shields.io/badge/IoT-ESP32-blueviolet?style=for-the-badge&logo=arduino" />
   <img src="https://img.shields.io/badge/AI-Computer%20Vision-ff6f00?style=for-the-badge&logo=tensorflow" />
   <img src="https://img.shields.io/badge/Cloud-Deployment-1f6feb?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Security-Cyber%20Basics-red?style=for-the-badge&logo=securityscorecard" />
 </p>
 
 ---
 
 ## 🛠 Tech Stack
 
+### 💻 Software & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cpp,flask,nodejs,tensorflow,postgresql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cpp,flask,nodejs,tensorflow,postgresql,docker,git,github&theme=dark" />
 </p>
 
-**Hardware & Embedded**
-
-* ESP32, Sensors, IoT Devices
-* Basic Networking & Telecommunication Systems
+### 🔧 Hardware & Networking
+- ESP32, Sensors, IoT Modules  
+- Basic Networking & Telecommunication Systems  
+- System Troubleshooting & Optimization  
 
 ---
 
@@ -48,22 +65,55 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 <table>
   <tr>
     <td width="50%">
-      <h3>☁️ Cloud Portfolio App</h3>
-      <p>Full‑stack web app with authentication, file upload/download, messaging, and PostgreSQL database.</p>
+      <h3>☁️ Cloud Portfolio Application</h3>
+      <p>
+        Full-stack cloud app featuring authentication, messaging system,
+        file upload/download, and PostgreSQL database deployment.
+      </p>
+      <ul>
+        <li>Flask + PostgreSQL</li>
+        <li>Cloud hosting & deployment</li>
+        <li>Secure file handling</li>
+      </ul>
     </td>
     <td width="50%">
       <h3>🌐 IoT Monitoring System</h3>
-      <p>ESP32‑based IoT system for sensor data acquisition, monitoring, and visualization.</p>
+      <p>
+        ESP32-based IoT platform for real-time sensor data acquisition,
+        monitoring, and visualization.
+      </p>
+      <ul>
+        <li>ESP32 & sensors</li>
+        <li>Data logging & dashboard</li>
+        <li>Scalable system design</li>
+      </ul>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <h3>🤖 Computer Vision</h3>
-      <p>Image classification & segmentation using CNN (TensorFlow & OpenCV).</p>
+      <h3>🤖 Computer Vision Systems</h3>
+      <p>
+        CNN-based image classification & segmentation projects using
+        TensorFlow and OpenCV.
+      </p>
+      <ul>
+        <li>MobileNetV2</li>
+        <li>Real-time inference</li>
+        <li>Practical CV use-cases</li>
+      </ul>
     </td>
     <td width="50%">
       <h3>🔗 Web3 Experiments</h3>
-      <p>Smart contract fundamentals and decentralized application experiments.</p>
+      <p>
+        Exploring blockchain fundamentals, smart contracts,
+        and decentralized application architecture.
+      </p>
+      <ul>
+        <li>Smart contract basics</li>
+        <li>Wallet integration</li>
+        <li>dApp experiments</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -83,61 +133,38 @@ I’m also the founder of **Spectrum.Byte**, a tech initiative focused on device
 
 ---
 
-## 📜 Certifications & Achievements
+## 📜 Certifications
 
 <p align="center">
-  <img src="assets/CertificateCyberSecurity.jpg" width="280" />
-  <img src="assets/CertificateNetworkCourse.jpg" width="280" />
+  <img src="assets/CertificateCyberSecurity.jpg" width="260" />
+  <img src="assets/CertificateNetworkCourse.jpg" width="260" />
 </p>
 
 <p align="center">
-  <b>Basic Cyber Security • Computer Network</b><br />
-  <b>By Cisco</b><br />
-  <i>Continuous learning through verified certifications.</i>
+  <b>Basic Cyber Security • Computer Networking</b><br />
+  <b>Cisco</b><br />
+  <i>Verified certifications with continuous learning mindset.</i>
 </p>
 
 ---
 
-## 🧠 Current Focus Roadmap
+## 🧭 2026 Learning & Career Roadmap
 
 ```text
-2026 Focus
+2026 Vision
 │
-├── IoT Systems
+├── IoT & Embedded
 │   ├─ Advanced ESP32 Architectures
-│   ├─ Sensor Fusion & LoRa Architectures
+│   ├─ Sensor Fusion & LoRa Systems
 │
 ├── Cloud & DevOps
-│   ├─ Docker & CI/CD
-│   ├─ Cloud Deployment (AWS / GCP)
+│   ├─ Docker & CI/CD Pipelines
+│   ├─ AWS / GCP Deployment
 │
 ├── Artificial Intelligence
-│   ├─ Computer Vision (Real‑time)
-│   ├─ NLP‑based Assistants
+│   ├─ Real-time Computer Vision
+│   ├─ NLP-based Intelligent Assistants
 │
-└── Career
-    ├─ Building Real‑world Products
-    └─ Open Source Contribution
-```
-
----
-
-## 🌱 Currently Learning
-
-* Advanced IoT System Design
-* Cloud Infrastructure & Deployment
-* AI‑powered Applications
-
----
-
-## 📫 Let’s Connect
-
-* 💼 LinkedIn: [dhavawirayudapy](https://linkedin.com/in/dhavawirayudapy)
-* 🌐 Portfolio: [Dhava Wirayuda](https://dhavawirayuda.pages.dev/)
-* ✉️ Email: [daffawirayuda128@gmail.com](mailto:daffawirayuda128@gmail.com)
-
----
-
-<p align="center">
-  <i>“Build with purpose. Learn endlessly. Share what you know.”</i> ✨
-</p>
+└── Career Growth
+    ├─ Product-oriented Development
+    └─ Open-Source Contributions
