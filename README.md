@@ -1,13 +1,33 @@
 <p align="center">
-  <img src="assets/Header.png" alt="Header" />
+  <img src="assets/Header.jpg" alt="Header" />
 </p>
 
 <h1 align="center">Hi, I'm Dhava 👋</h1>
-<h3 align="center">Telecommunication Engineer • IoT Builder • Cloud & AI Explorer</h3>
+<h3 align="center">Founder • Engineer • Developer</h3>
 
 <p align="center">
   <i>Turning systems into solutions. Turning ideas into products.</i>
 </p>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+## 📊 GitHub Analytics
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eleanore-Py&theme=tokyo-night" />
+
+---
+
+## 🎮 Lets Play With me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
+</picture>
+
+<img src="https://raw.githubusercontent.com/Eleanore-Py/Eleanore-Py/output/snake.svg" alt="Snake animation" />
 
 ---
 
@@ -15,7 +35,6 @@
 
 I'm a **fresh graduate in Telecommunication Engineering** with a deep passion for **IT systems, IoT, cloud infrastructure, and intelligent automation**.
 
-I love:
 - Building systems **from zero**
 - Reverse-engineering tech to understand *why it works*
 - Shipping **real, usable products**, not just demos
@@ -29,14 +48,12 @@ built with a structured & professional mindset.
 ## 🧠 Tech Interests & Focus
 
 - 🌐 Internet of Things & Embedded Systems  
-- ☁️ Cloud Computing & DevOps Automation  
 - 🤖 Artificial Intelligence (Computer Vision & NLP)  
-- 🔐 Cybersecurity Fundamentals  
-- 🧩 Full-Stack & System Integration  
+- 🔐 Cybersecurity Fundamentals   
 
 ---
 
-## 🔗 Tech Badges
+## 🔗 interest
 
 <p align="center">
   <img src="https://img.shields.io/badge/IoT-ESP32-blueviolet?style=for-the-badge&logo=arduino" />
@@ -51,11 +68,11 @@ built with a structured & professional mindset.
 
 ### 💻 Software & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cpp,flask,nodejs,tensorflow,postgresql,docker,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,nodejs,tensorflow,react,arduino,github,photoshop&theme=dark" />
 </p>
 
 ### 🔧 Hardware & Networking
-- ESP32, Sensors, IoT Modules  
+- ESP32, LoRa, P2P Comunication Infrastructures  
 - Moderate Networking & Telecommunication Systems  
 - System Troubleshooting & Optimization  
 
@@ -66,31 +83,25 @@ built with a structured & professional mindset.
 <table>
   <tr>
     <td width="50%">
-      <h3>☁️ Cloud Portfolio Application</h3>
-      <p>Full-stack cloud app with authentication, messaging, file upload/download, and PostgreSQL.</p>
+      <h3> Chatbot NLP base</h3>
+      <p>word tokenizer with transformer and wikipedia dataset.</p>
       <ul>
-        <li>Flask + PostgreSQL</li>
-        <li>Cloud deployment</li>
-        <li>Secure file handling</li>
+        <li>Transformer</li>
+        <li>Wikipedia Engine</li>
+        <li>Python</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>🌐 IoT Monitoring System</h3>
-      <p>ESP32-based IoT platform for real-time sensor monitoring and visualization.</p>
+      <h3>🌐 Wireless Sensor Netwwork</h3>
+      <p>Transmiting sensor data via LoRa and send to server with ESP32.</p>
       <ul>
-        <li>ESP32 & sensors</li>
-        <li>Data logging</li>
-        <li>Scalable design</li>
+        <li>LoRa Ebyte E220</li>
+        <li>Pharsing data</li>
+        <li>Web Server</li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eleanore-Py&theme=tokyo-night" />
 
 ---
 
@@ -115,7 +126,7 @@ built with a structured & professional mindset.
     <img src="https://img.shields.io/badge/LinkedIn-Dhava%20Wirayuda-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://dhavawirayuda.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-dhavawirayuda.pages.dev-000000?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Dhava Wirayuda-000000?style=for-the-badge&logo=vercel" />
   </a>
   <a href="mailto:daffawirayuda128@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
@@ -125,3 +136,5 @@ built with a structured & professional mindset.
 <p align="center">
   <i>Open for collaboration, product discussions, and early-stage tech opportunities.</i>
 </p>
+
+---
