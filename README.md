@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Header.jpg" alt="Header" />
+  <img src="assets/banner.png" alt="Header" />
 </p>
 
 <h1 align="center">Hi, I'm Dhava 👋</h1>
