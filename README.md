@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Dhava 👋</h1>
-<h3 align="center">Founder • Engineer • Developer</h3>
+<h3 align="center">Web Developer • Graphic Designer</h3>
 
 <p align="center">
   <i>Turning systems into solutions. Turning ideas into products.</i>
