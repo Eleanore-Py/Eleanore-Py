@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-I'm a **fresh graduate in Telecommunication Engineering** with a deep passion for **IT systems, IoT, cloud infrastructure, and intelligent automation**.
+I'm a **fresh graduate in Telecommunication Engineering** with a deep passion for **Software Development & Digital Intelligence**.
 
 - Building systems **from zero**
 - Reverse-engineering tech to understand *why it works*
